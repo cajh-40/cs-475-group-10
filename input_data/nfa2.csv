@@ -1,0 +1,10 @@
+nfa_id,starting_state,accepting_state,from_state,symbol,to_state
+NFA2,r0,r4,r0,a,r0
+NFA2,r0,r4,r0,a,r1
+NFA2,r0,r4,r0,b,r0
+NFA2,r0,r4,r1,a,r2
+NFA2,r0,r4,r1,b,r2
+NFA2,r0,r4,r2,a,r3
+NFA2,r0,r4,r2,b,r3
+NFA2,r0,r4,r3,a,r4
+NFA2,r0,r4,r3,b,r4

@@ -1,0 +1,2 @@
+file,nfa_states,dfa_states,increase,growth_ratio
+nfa1.csv,4,8,4,2.0
